@@ -1,0 +1,20 @@
+* {
+    font-size: 10px;
+}
+
+body {
+    background-color: blue;
+}
+
+.main_header {
+    background-color: black;
+    color: white;
+    height: 25vh;
+}
+.main_header h1 {
+    font-size: 5rem;
+    color: red;
+    text-align: center;
+    position: relative;
+    top: 30%;
+}
